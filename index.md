@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thinking is still required.
 ---
 
