@@ -1,3 +1,7 @@
+---
+title: Thinking is still required.
+---
+
 # CONSULTING SERVICES
 
 Dr. Jane Macfarlane offers an ability to take a top-down view of an
